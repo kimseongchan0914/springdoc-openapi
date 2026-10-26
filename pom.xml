@@ -64,6 +64,8 @@
 		<gmavenplus-plugin.version>1.13.1</gmavenplus-plugin.version>
 		<jjwt.version>0.9.1</jjwt.version>
 		<jackson-databind-nullable.version>0.2.8</jackson-databind-nullable.version>
+		<jackson-2-bom.version>2.21.8</jackson-2-bom.version>
+		<jackson-bom.version>3.1.8</jackson-bom.version>
 		<therapi-runtime-javadoc.version>0.15.0</therapi-runtime-javadoc.version>
 		<spring-cloud-function.version>5.0.5</spring-cloud-function.version>
 		<scalar.version>0.6.83</scalar.version>
